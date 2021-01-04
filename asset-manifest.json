@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/shivajigoud/monster-rolodex/static/css/main.ec472612.chunk.css",
-    "main.js": "/shivajigoud/monster-rolodex/static/js/main.888f769a.chunk.js",
-    "main.js.map": "/shivajigoud/monster-rolodex/static/js/main.888f769a.chunk.js.map",
-    "runtime-main.js": "/shivajigoud/monster-rolodex/static/js/runtime-main.81512bf5.js",
-    "runtime-main.js.map": "/shivajigoud/monster-rolodex/static/js/runtime-main.81512bf5.js.map",
-    "static/js/2.c1e0678e.chunk.js": "/shivajigoud/monster-rolodex/static/js/2.c1e0678e.chunk.js",
-    "static/js/2.c1e0678e.chunk.js.map": "/shivajigoud/monster-rolodex/static/js/2.c1e0678e.chunk.js.map",
-    "static/js/3.26c9c44d.chunk.js": "/shivajigoud/monster-rolodex/static/js/3.26c9c44d.chunk.js",
-    "static/js/3.26c9c44d.chunk.js.map": "/shivajigoud/monster-rolodex/static/js/3.26c9c44d.chunk.js.map",
-    "index.html": "/shivajigoud/monster-rolodex/index.html",
-    "static/css/main.ec472612.chunk.css.map": "/shivajigoud/monster-rolodex/static/css/main.ec472612.chunk.css.map",
-    "static/js/2.c1e0678e.chunk.js.LICENSE.txt": "/shivajigoud/monster-rolodex/static/js/2.c1e0678e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/shivajigoud/monster-rolodex/static/media/logo.6ce24c58.svg"
+    "main.css": "/shivajigoud/monster-rolodex/monsters/static/css/main.ec472612.chunk.css",
+    "main.js": "/shivajigoud/monster-rolodex/monsters/static/js/main.888f769a.chunk.js",
+    "main.js.map": "/shivajigoud/monster-rolodex/monsters/static/js/main.888f769a.chunk.js.map",
+    "runtime-main.js": "/shivajigoud/monster-rolodex/monsters/static/js/runtime-main.0031b9e3.js",
+    "runtime-main.js.map": "/shivajigoud/monster-rolodex/monsters/static/js/runtime-main.0031b9e3.js.map",
+    "static/js/2.c1e0678e.chunk.js": "/shivajigoud/monster-rolodex/monsters/static/js/2.c1e0678e.chunk.js",
+    "static/js/2.c1e0678e.chunk.js.map": "/shivajigoud/monster-rolodex/monsters/static/js/2.c1e0678e.chunk.js.map",
+    "static/js/3.26c9c44d.chunk.js": "/shivajigoud/monster-rolodex/monsters/static/js/3.26c9c44d.chunk.js",
+    "static/js/3.26c9c44d.chunk.js.map": "/shivajigoud/monster-rolodex/monsters/static/js/3.26c9c44d.chunk.js.map",
+    "index.html": "/shivajigoud/monster-rolodex/monsters/index.html",
+    "static/css/main.ec472612.chunk.css.map": "/shivajigoud/monster-rolodex/monsters/static/css/main.ec472612.chunk.css.map",
+    "static/js/2.c1e0678e.chunk.js.LICENSE.txt": "/shivajigoud/monster-rolodex/monsters/static/js/2.c1e0678e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shivajigoud/monster-rolodex/monsters/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81512bf5.js",
+    "static/js/runtime-main.0031b9e3.js",
     "static/js/2.c1e0678e.chunk.js",
     "static/css/main.ec472612.chunk.css",
     "static/js/main.888f769a.chunk.js"
